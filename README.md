@@ -1,2 +1,2 @@
 # hello-world
-primo prova di funzionamento di git
+prima prova di funzionamento di git
